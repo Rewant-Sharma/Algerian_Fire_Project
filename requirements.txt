@@ -1,0 +1,6 @@
+# we age going to write all the libraries in the requiremnet .txt because when we go on cloud , we will ask the cloud to download the libraries 
+flask
+pandas
+numpy
+scikit-learn
+gunicorn
